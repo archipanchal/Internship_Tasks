@@ -37,7 +37,7 @@ Classify images of cats and dogs using Support Vector Machines (SVM).
 - SVM model training with `scikit-learn`
 - Evaluation with accuracy and confusion matrix
 
-📁 File: `Task 02 (SVM)r/cat&dog.ipynb`
+📁 File: `Task 02 (SVM)/cat&dog.ipynb`
 
 ---
 
